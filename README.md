@@ -21,3 +21,7 @@ Database src: https://www.kaggle.com/competitions/digit-recognizer</br>
 
 <img src="images/Ekran%20Alıntısı4.JPG" alt="Ekran Alıntısı" width="400" />
 
+## Some False Predicted Images
+
+<img src="images/Ekran%20Alıntısı5.JPG" alt="Ekran Alıntısı" width="400" />
+
