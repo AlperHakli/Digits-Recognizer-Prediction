@@ -6,6 +6,18 @@ In this project, I used the Digits Recognizer dataset to classify numbers and ac
 Notebook src: https://www.kaggle.com/code/alperhakl/digits-recognizer-prediction-95-acc-rate</br>
 Database src: https://www.kaggle.com/competitions/digit-recognizer</br>
 
-
+## Image Distribution 
 <img src="images/Ekran%20Alıntısı.JPG" alt="Ekran Alıntısı" width="400" />
+
+## Some Images
+
+<img src="images/Ekran%20Alıntısı2.JPG" alt="Ekran Alıntısı" width="400" />
+
+## Model
+
+<img src="images/Ekran%20Alıntısı3.JPG" alt="Ekran Alıntısı" width="400" />
+
+## Accuracy Rate
+
+<img src="images/Ekran%20Alıntısı4.JPG" alt="Ekran Alıntısı" width="400" />
 
